@@ -1,0 +1,9 @@
+{
+	"name": "datapipeline-abc",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f92a2ef-c921-4e0b-8959-5e32257aa60d",
+		"tenantId": "95b03886-3901-4792-a986-b42f81a92f2e"
+	}
+}
