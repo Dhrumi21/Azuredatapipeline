@@ -1,0 +1,9 @@
+{
+	"name": "ddd-qateam",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03da3b9c-5e4f-4e4b-b269-1bedf0f7b7fe",
+		"tenantId": "95b03886-3901-4792-a986-b42f81a92f2e"
+	}
+}
